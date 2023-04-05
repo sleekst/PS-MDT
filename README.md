@@ -2,7 +2,7 @@
 This is an edited version of PS-mdt to support Benzz M.O.T script. This also comes with a british ui and soon the charges and fines will be updated to be British too.
 The EMS and DOJ have not yet been modified so it will be american for those departments, this will soon be fixed!
 
-If you have already made edits to your MDT or dont want to download this, simply follow the steps below to manually fix the code to work with Benzz M.O.T
+If you have already made edits to your MDT or dont want to download this version, simply follow the steps below to manually edit the code to work with Benzz M.O.T!
 
 
 ps-mdt/server/dbm.lua (line:321) (it has to be above the pilot license or may not work)   ['mottester'] = false, --Edited for Benzz M.O.T 
@@ -32,3 +32,8 @@ if (type == "Theory") {
     }
 
 ps/mdt/ui/app.js (line: 5397) (copy and paste)     var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
+
+
+
+ALL CREDITS GO TO PROJECTSLOTH: https://github.com/Project-Sloth/ps-mdt
+THIS IS JUST AN EDIT AND NOT THE ORIGINAL SCRIPT
