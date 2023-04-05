@@ -32,6 +32,7 @@ If you have already made edits to your MDT or dont want to download this version
 
 
      } else if (type == "mottester") {
+     
      info = "mottester";
     
 * ps/mdt/ui/app.js (line: 5397) (copy and paste)     var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
