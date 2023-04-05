@@ -30,7 +30,11 @@ If you have already made edits to your MDT or dont want to download this version
 * ps-mdt/ui/app.js/ (line: 233) (copy and paste)      var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
 * ps-mdt/ui/app.js (line:902) (copy and paste the code below)
 
-if (type == "Theory") {
+   $(".licenses-holder").on("contextmenu", ".license-tag", function (e) {
+    const status = $(this).data("type");
+    let type = $(this).html();
+
+    if (type == "Theory") {
       info = "theory";
     } else if (type == "Car") {
       info = "drive";
@@ -44,12 +48,10 @@ if (type == "Theory") {
       info = "pilot";
     } else if (type == "Weapon") {
       info = "weapon";
-    } else if (type == "mottester") {
-      info = "mottester";
     } else {
       info = type;
     }
-
+    
 * ps/mdt/ui/app.js (line: 5397) (copy and paste)     var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
 # Weapon Info Export
 
