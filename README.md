@@ -4,8 +4,7 @@ For all support questions related to this EDIT, ask in benzz [Discord](https://d
 
 For questions regarding the original MDT please use PROJECT SLOTH's [Discord](https://discord.gg/projectsloth) and ask in the Support channel! Make sure to ping Spudd#4654 if you have any questions or issues regarding this edit.
 
-This is a modified version of ps-mdt to support Benzz M.O.T script. This also comes with a british ui and soon the charges and fines will be updated to be British too.
-The EMS and DOJ have not yet been modified so it will be american for those departments, this will soon be fixed!
+This is a modified version of ps-mdt to support Benzz M.O.T script. This also comes with a british UI, charges and colours!
 
 
 ## Dependencies
