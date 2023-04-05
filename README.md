@@ -52,6 +52,5 @@ if (type == "Theory") {
 * ps/mdt/ui/app.js (line: 5397) (copy and paste)     var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
 
 
-
-ALL CREDITS GO TO PROJECTSLOTH: https://github.com/Project-Sloth/ps-mdt
-THIS IS JUST AN EDIT AND NOT THE ORIGINAL SCRIPT
+# ALL CREDITS GO TO PROJECTSLOTH: https://github.com/Project-Sloth/ps-mdt
+# THIS IS JUST AN EDIT AND NOT THE ORIGINAL SCRIPT
