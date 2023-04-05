@@ -14,6 +14,16 @@ This is a modified version of ps-mdt to support Benzz M.O.T script. This also co
 - [oxmysql](https://github.com/overextended/oxmysql)
 - [qb-apartments](https://github.com/qbcore-framework/qb-apartments) | [Config](https://github.com/Project-Sloth/ps-mdt/blob/0ce2ab88d2ca7b0a49abfb3f7f8939d0769c7b73/shared/config.lua#L3) available to enable or disable. 
 
+# Photos
+![image](https://cdn.discordapp.com/attachments/1088611642469785704/1093290855382655016/image.png)
+![image](https://cdn.discordapp.com/attachments/1088611642469785704/1093291072022650950/image.png)
+![image](https://cdn.discordapp.com/attachments/1088611642469785704/1093291072278511706/image.png)
+![image](https://cdn.discordapp.com/attachments/1088611642469785704/1093291072496603318/image.png)
+![image](https://cdn.discordapp.com/attachments/1088611642469785704/1093291072756662452/image.png)
+![image](https://cdn.discordapp.com/attachments/1088611642469785704/1093291247206146078/image.png)
+![image](https://cdn.discordapp.com/attachments/1088611642469785704/1093291602040082542/image.png)
+
+
 # ps-mdt Installation
 * Download ZIP
 * Drag and drop resource into your server files, make sure to remove -main in the folder name
