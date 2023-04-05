@@ -30,10 +30,8 @@ If you have already made edits to your MDT or dont want to download this version
 * ps-mdt/ui/app.js/ (line: 233) (copy and paste)      var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
 * ps-mdt/ui/app.js (line:954) (copy and paste)     
 
-
-     } else if (type == "mottester") {
-     
-     info = "mottester";
+    } else if (type == "mottester") {
+    info = "mottester";
     
 * ps/mdt/ui/app.js (line: 5397) (copy and paste)     var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
 # Weapon Info Export
