@@ -27,13 +27,15 @@ If you have already made edits to your MDT or dont want to download this version
 * ps-mdt/server/dbm.lua (line:321) (it has to be above the pilot license or may not work)   ['mottester'] = false, --Edited for Benzz M.O.T 
 * ps-mdt/server/main.lua (line:131) (can be above OR below pilot license)             ['mottester'] = false --Edited for Benzz M.O.T 
 * ps-mdt/server/main.lua (line:173) (can be above OR below pilot license)             ['mottester'] = false --Edited for Benzz M.O.T
-* ps-mdt/ui/app.js/ (line: 233) (copy and paste)      var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
+* ps-mdt/ui/app.js/ (line: 248) (copy and paste)            var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
 * ps-mdt/ui/app.js (line:954) (copy and paste)     
 
     } else if (type == "mottester") {
     info = "mottester";
     
-* ps/mdt/ui/app.js (line: 5397) (copy and paste)     var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
+* ps/mdt/ui/app.js (line: 5510) (copy and paste)           var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester',];
+
+
 # Weapon Info Export
 
 Adds server export for inserting weaponinfo records, that can be used elsewhere in your server, such as weapon purchase, to add information to the mdt. Below is the syntax for this, all arguments are strings.
