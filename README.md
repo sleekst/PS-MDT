@@ -26,7 +26,7 @@ This is a modified version of ps-mdt to support Benzz M.O.T script. This also co
 If you have already made edits to your MDT or dont want to download this version, simply follow the steps below to manually edit the code to work with Benzz M.O.T!
 
 * ps-mdt/server/dbm.lua (line:131):     ['mottester'] = false --Edited for Benzz M.O.T 
-* * ps-mdt/server/dbm.lua (line:173):   ['mottester'] = false --Edited for Benzz M.O.T 
+* ps-mdt/server/dbm.lua (line:173):   ['mottester'] = false --Edited for Benzz M.O.T 
 * ps-mdt/server/main.lua (line:322):    ['mottester'] = false false --Edited for Benzz M.O.T 
 * ps-mdt/ui/app.js/ (line: 248) (copy and paste):      var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
 * ps-mdt/ui/app.js (line:954) (copy and paste code below):     
