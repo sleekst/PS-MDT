@@ -22,9 +22,9 @@ The EMS and DOJ have not yet been modified so it will be american for those depa
 * Start resource through server.cfg
 * Restart your server.
 
-If you have already made edits to your MDT or dont want to download this version, simply follow the steps below to manually edit the code to work with Benzz M.O.T!
 
 # Manual Edit
+If you have already made edits to your MDT or dont want to download this version, simply follow the steps below to manually edit the code to work with Benzz M.O.T!
 * ps-mdt/server/dbm.lua (line:321) (it has to be above the pilot license or may not work)   ['mottester'] = false, --Edited for Benzz M.O.T 
 * ps-mdt/server/main.lua (line:131) (can be above OR below pilot license)             ['mottester'] = false --Edited for Benzz M.O.T 
 * ps-mdt/server/main.lua (line:173) (can be above OR below pilot license)             ['mottester'] = false --Edited for Benzz M.O.T
