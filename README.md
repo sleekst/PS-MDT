@@ -2,6 +2,22 @@
 This is an edited version of PS-mdt to support Benzz M.O.T script. This also comes with a british ui and soon the charges and fines will be updated to be British too.
 The EMS and DOJ have not yet been modified so it will be american for those departments, this will soon be fixed!
 
+DEPENDENCIES
+
+QBCore
+ps-dispatch
+oxmysql
+qb-apartments | Config available to enable or disable.
+
+
+INSTALATION
+
+Download ZIP
+Drag and drop resource into your server files, make sure to remove -main in the folder name
+Run the attached SQL script (mdt.sql)
+Start resource through server.cfg
+Restart your server
+
 If you have already made edits to your MDT or dont want to download this version, simply follow the steps below to manually edit the code to work with Benzz M.O.T!
 
 
