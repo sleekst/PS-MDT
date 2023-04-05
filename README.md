@@ -28,29 +28,11 @@ If you have already made edits to your MDT or dont want to download this version
 * ps-mdt/server/main.lua (line:131) (can be above OR below pilot license)             ['mottester'] = false --Edited for Benzz M.O.T 
 * ps-mdt/server/main.lua (line:173) (can be above OR below pilot license)             ['mottester'] = false --Edited for Benzz M.O.T
 * ps-mdt/ui/app.js/ (line: 233) (copy and paste)      var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
-* ps-mdt/ui/app.js (line:902) (copy and paste the code below)
+* ps-mdt/ui/app.js (line:954) (copy and paste)     
 
-   $(".licenses-holder").on("contextmenu", ".license-tag", function (e) {
-    const status = $(this).data("type");
-    let type = $(this).html();
 
-    if (type == "Theory") {
-      info = "theory";
-    } else if (type == "Car") {
-      info = "drive";
-    } else if (type == "Bike") {
-      info = "drive_bike";
-    } else if (type == "Truck") {
-      info = "drive_truck";
-    } else if (type == "Hunting") {
-      info = "hunting";
-    } else if (type == "Pilot") {
-      info = "pilot";
-    } else if (type == "Weapon") {
-      info = "weapon";
-    } else {
-      info = type;
-    }
+     } else if (type == "mottester") {
+     info = "mottester";
     
 * ps/mdt/ui/app.js (line: 5397) (copy and paste)     var licenseTypes = ['business', 'pilot', 'weapon', 'driver', 'mottester'];
 # Weapon Info Export
