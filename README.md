@@ -14,7 +14,7 @@ This is a modified version of ps-mdt to support Benzz M.O.T script. This also co
 - [oxmysql](https://github.com/overextended/oxmysql)
 - [qb-apartments](https://github.com/qbcore-framework/qb-apartments) | [Config](https://github.com/Project-Sloth/ps-mdt/blob/0ce2ab88d2ca7b0a49abfb3f7f8939d0769c7b73/shared/config.lua#L3) available to enable or disable. 
 
-# PS-mdt Installation
+# ps-mdt Installation
 * Download ZIP
 * Drag and drop resource into your server files, make sure to remove -main in the folder name
 * Run the attached SQL script (mdt.sql)
