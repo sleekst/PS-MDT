@@ -1,6 +1,8 @@
 # Project Sloth MDT
 
-For all support questions related to this EDIT, ask in benzz [Discord](https://discord.gg/mqzv2dEXRv) Public Support Chat.
+For all support questions related to this EDIT, ask in Paradox [Discord](https://discord.gg/4ZdWsjXRhF) Support Chat.
+
+For questions regarding benzz M.O.T ask in benzz [Discord](https://discord.gg/mqzv2dEXRv) Public Support Chat.
 
 For questions regarding the original MDT please use PROJECT SLOTH's [Discord](https://discord.gg/projectsloth) and ask in the Support channel! Make sure to ping Spudd#4654 if you have any questions or issues regarding this edit.
 
